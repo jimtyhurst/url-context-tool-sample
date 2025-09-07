@@ -4,7 +4,7 @@ Simple example demonstrating how to use the Google [url_context tool](https://ai
 
 The URL context tool lets you provide additional context to [Gemini models](https://ai.google.dev/gemini-api/docs/models) in the form of URLs. By including URLs in your request, the model will access the content from those pages to inform and enhance its response.
 
-The notebook, [url_context_tool_demo.ipynb](.notebooks/url_context_tool_demo.ipynb), is meant to run in [Google Colab](https://colab.research.google.com/).
+The notebook, [url_context_tool_demo.ipynb](./notebooks/url_context_tool_demo.ipynb), is meant to run in [Google Colab](https://colab.research.google.com/).
 
 ## License
 
